@@ -14,4 +14,4 @@ const firebaseConfig = {
 
 // export default app;
 
-export default firebaseConfig
+export default firebaseConfig;
